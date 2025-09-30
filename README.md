@@ -49,7 +49,7 @@ Analyzed customer revenue at a cohort level
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
 
-![cohort analysis}(images/5.2_customer_revenue_normalized.png)
+![cohort analysis](https://github.com/RanaHasnain779/Ecom_Store_Sql_Data_analytics/blob/main/images/5.2_customer_revenue_normalized.png)
 Customer Revenue Normalized
 
 
