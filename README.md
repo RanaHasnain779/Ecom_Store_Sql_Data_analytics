@@ -19,7 +19,8 @@ Analysis
 Categorized customers based on total lifetime value (LTV)
 Assigned customers to High, Mid, and Low-value segments
 Calculated key metrics like total revenue
-📈 Visualization:
+📈 Visualization:!
+[customer segmentation](images/6.3_customer_segementation 1.png)
 
 Customer Segmentation
 
@@ -46,11 +47,11 @@ Analyzed customer revenue at a cohort level
 ⚠️ Note: This only includes 2 charts.
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
-
+[cohort analysis}(images/5.2_customer_revenue_normalized.png)
 Customer Revenue Normalized
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
-
+[monthly revenue](images/5.2_monthly_revenue_customers_3mo 3.png)
 Monthly Revenue & CustomerTrends
 
 📊 Key Findings:
@@ -70,7 +71,7 @@ Identified customers at risk of churning
 Analyzed last purchase patterns
 Calculated customer-specific metrics
 📈 Visualization:
-
+[customer churn](images/7.3_customer_churn_cohort_year4.png)
 Customer Churn by Cohort Year
 
 📊 Key Findings:
