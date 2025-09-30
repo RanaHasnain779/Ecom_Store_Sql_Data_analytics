@@ -55,7 +55,7 @@ Customer Revenue Normalized
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-![monthly revenue](images/5.2_monthly_revenue_customers_3mo3.png)
+![monthly revenue]([images/5.2_monthly_revenue_customers_3mo3.png](https://github.com/RanaHasnain779/Ecom_Store_Sql_Data_analytics/blob/main/images/5.2_customer_revenue_normalized.png))
 
 Monthly Revenue & CustomerTrends
 
