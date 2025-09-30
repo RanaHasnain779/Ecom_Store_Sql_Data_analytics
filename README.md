@@ -21,7 +21,7 @@ Assigned customers to High, Mid, and Low-value segments
 Calculated key metrics like total revenue
 📈 Visualization:
 
-![customer segmentation](images/6.3_customer_segementation1.png)
+![customer segmentation](https://github.com/RanaHasnain779/Ecom_Store_Sql_Data_analytics/blob/main/images/6.3_customer_segementation%201.png)
 
 Customer Segmentation
 
@@ -55,7 +55,7 @@ Customer Revenue Normalized
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-![monthly revenue]([images/5.2_monthly_revenue_customers_3mo3.png](https://github.com/RanaHasnain779/Ecom_Store_Sql_Data_analytics/blob/main/images/5.2_customer_revenue_normalized.png))
+![monthly revenue](https://github.com/RanaHasnain779/Ecom_Store_Sql_Data_analytics/blob/main/images/5.2_monthly_revenue_customers_3mo%203.png)
 
 Monthly Revenue & CustomerTrends
 
