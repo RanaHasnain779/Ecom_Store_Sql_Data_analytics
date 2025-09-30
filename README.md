@@ -21,7 +21,7 @@ Assigned customers to High, Mid, and Low-value segments
 Calculated key metrics like total revenue
 📈 Visualization:
 
-![customer segmentation](6.3_customer_segementation 1.png)
+![customer segmentation](images/6.3_customer_segementation1.png)
 
 Customer Segmentation
 
@@ -49,13 +49,13 @@ Analyzed customer revenue at a cohort level
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
 
-![cohort analysis}(5.2_customer_revenue_normalized.png)
+![cohort analysis}(images/5.2_customer_revenue_normalized.png)
 Customer Revenue Normalized
 
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-![monthly revenue](5.2_monthly_revenue_customers_3mo 3.png)
+![monthly revenue](images/5.2_monthly_revenue_customers_3mo3.png)
 
 Monthly Revenue & CustomerTrends
 
